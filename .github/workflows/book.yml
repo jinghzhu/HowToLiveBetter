@@ -12,7 +12,6 @@ on:
       - README.md
       - index.html
       - og.png
-      - ads/**
       - book/**
       - docs/*.md
       - tools/**
@@ -22,7 +21,6 @@ on:
       - README.md
       - index.html
       - og.png
-      - ads/**
       - book/**
       - docs/*.md
       - tools/**
